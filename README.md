@@ -1,6 +1,6 @@
 # great_places
 
-A new Flutter project.
+A new Flutter project using default config.
 
 ## Getting Started
 
